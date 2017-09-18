@@ -1,0 +1,4 @@
+﻿  helloworld_win.cpp
+c:\users\typeb\source\repos\article_9\article_9\platform\windows\helloworld_win.cpp(104): warning C4715: “WindowProc”: 不是所有的控件路径都返回值
+  Article_9.vcxproj -> C:\Users\typeb\source\repos\Article_9\Debug\Article_9.exe
+  Article_9.vcxproj -> C:\Users\typeb\source\repos\Article_9\Debug\Article_9.pdb (Partial PDB)

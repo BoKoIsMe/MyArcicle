@@ -1,0 +1,9 @@
+﻿  helloengine_d3d.cpp
+c:\users\typeb\source\repos\article_11\article_11\platform\windows\helloengine_d3d.cpp(53): warning C4101: “hr”: 未引用的局部变量
+  main.cpp
+  GraphicsManager.cpp
+  BaseApplication.cpp
+  EmptyApplication.cpp
+  正在生成代码...
+  Article_11.vcxproj -> C:\Users\typeb\Source\repos\Article_11\Debug\Article_11.exe
+  Article_11.vcxproj -> C:\Users\typeb\Source\repos\Article_11\Debug\Article_11.pdb (Partial PDB)
